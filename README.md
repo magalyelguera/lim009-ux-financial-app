@@ -55,7 +55,11 @@ Nuestro user person actual es de 29 años, pues el la edad promedio de los entre
 
 ### User Persona
 
-![WhatsApp Image 2019-06-06 at 14 17 31](https://user-images.githubusercontent.com/43868976/59629050-9d37f700-9107-11e9-8593-5c7f42dc1567.jpeg)
+<p  align="center">
+
+<img  src="http://i67.tinypic.com/111jk1y.png">
+
+</p>
 
 
 ### Affinity Map
