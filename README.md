@@ -64,8 +64,11 @@ Nuestro user person actual es de 29 años, pues el la edad promedio de los entre
 
 ### Affinity Map
 
-![Affinity Map App Financiera](https://user-images.githubusercontent.com/43868976/59629320-2d763c00-9108-11e9-825e-0764c9a544f1.jpg)
+<p  align="center">
 
+<img  src="http://i66.tinypic.com/xy2c4.jpg">
+
+</p>
 ### Customer Journey Map
 
 <p  align="center">
