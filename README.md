@@ -68,8 +68,11 @@ Nuestro user person actual es de 29 años, pues el la edad promedio de los entre
 
 ### Customer Journey Map
 
-![customeroficialazul](https://user-images.githubusercontent.com/43868976/59629167-da9c8480-9107-11e9-8f0b-4e9d5b355023.png)
+<p  align="center">
 
+<img  src="http://i63.tinypic.com/20049hj.jpg">
+
+</p>
 
 ### Problem statements
 
