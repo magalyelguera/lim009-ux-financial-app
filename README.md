@@ -61,7 +61,6 @@ Nuestro user person actual es de 29 años, pues el la edad promedio de los entre
 
 </p>
 
-
 ### Affinity Map
 
 <p  align="center">
@@ -69,6 +68,7 @@ Nuestro user person actual es de 29 años, pues el la edad promedio de los entre
 <img  src="http://i66.tinypic.com/xy2c4.jpg">
 
 </p>
+
 ### Customer Journey Map
 
 <p  align="center">
