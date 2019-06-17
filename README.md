@@ -127,5 +127,33 @@ Se realizó el prototipo de alta fidelidad en figma y marvel. Se implementó un 
 
 !(https://projects.invisionapp.com/d/main/default/#/console/17796444/369034508/preview#project_console)
 
+## RECOMENDACIONES
+### 1. Modificaciones:
 
+-Propuesta de un nuevo User Persona de 29 años
+Después de una investigación cualitativa realizada a 13 personas de edades entre 18 y 34 años de ambos sexos;  llegamos a la conclusión de que los usuarios mayores de 26 años tienen una cultura de ahorro y/o busca ahorrar un porcentaje de sus ingresos,  el 100% hace uso de apps de los bancos para realizar sus transacciones así mismo estos buscan priorizar la seguridad a la hora de sus transacciones.
+
+  > “Ahorro mensualmente, tengo cuentas en distintos bancos ” Omar Poméz 32 años.
+  
+
+  > “Ahorro en una junta, casa y tarjetas” Dina Chipana 29 años.
+
+-Propuesta de rediseño del aplicativo 
+
+ * Rediseño de logo ya que este aplicativo está enfocado en fomentar el ahorro pensamos en un logo más amigable y familiar para esto se realizó un estudio de benchmark.
+ * Rediseño en flujo de registro, donde se propone incluir el número de tarjeta, DNI y celular, para esto se realizó un estudio de benchmark así mismo pensando en la seguridad de nuestros usuarios.
+ * Inicio de sesión con contraseña, se planteó esta modificación pensando en los usuarios que no tienen la opción de huella digital.
+ * Onboarding, se propone esta funcionalidad pensando en la necesidad del usuario de conocer los pasos o procedimientos de uso de aplicativos financieros. 
+ * Modificar el menú, ya que su deficiencia fue reflejada en los testeos realizados. Se propone un menú hamburguesa además de un menú inferior permanente con las principales funcionalidades.
+ * Modificar la funcionalidad de gastos, teniendo en cuenta  la necesidad del usuario de poder registrar sus gastos de manera fácil y rápida así mismo poder visualizar las diferentes categorías en la que está gastando.
+ * Modificar la funcionalidad de ahorros, su deficiencia fue evidenciada en los testeos; se propone el rediseño del botón crear cuenta por crear nuevo objetivo, se implementó una nueva vista de ver el detalle de su objetivo de ahorro así mismo una barra de progreso. 
+
+ ### 2. Próximos desarrollos:
+ * Propuesta de rediseño de landing page 
+ ### 3. Inversión del presupuesto de marketing:
+ Propuesta de inversión:
+ Después del análisis de la data fintech, research y testeos del aplicativo podemos concluir y proponer un replanteamiento en la inversión del presupuesto.
+ * Invertir en el replanteamiento del contenido de las impresiones en facebook, ya que del 100% de las personas que llegan a visualizar el anuncio solo el 2.39% logra visitar el landing page, Teniendo en cuenta las necesidades encontradas después de esta investigación y enfocadas en el nuevo user persona propuesto.
+ * Invertir en el rediseño del landing page, ya que del total de personas que visitan solo el 12.35% logra visitar el app store.Teniendo en cuenta las necesidades encontradas después de esta investigación y enfocadas en el nuevo user persona propuesto.
+ * Invertir en las mejoras continuas de las funcionalidades de ahorro y gastos, tomando en cuenta las necesidades de los usuarios.
 
