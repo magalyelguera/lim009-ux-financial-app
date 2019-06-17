@@ -1,6 +1,6 @@
 # Aplicación financiera
 
-Al iniciar la el rediseño de la aplicación, nos dimos cuenta que muchos tratan de ahorrar, pero la mayoría cae en el proceso. ¿Cómo te ha ido a ti? ¿ahorras? Si estás entre estos últimos, solo revisa nuestra nueva propuesta del app financiera.
+Al iniciar el rediseño de la aplicación, nos dimos cuenta que muchos tratan de ahorrar, pero la mayoría cae en el proceso. ¿Cómo te ha ido a ti? ¿ahorras? Si estás entre estos últimos, solo revisa nuestra nueva propuesta del app financiera.
 
 Objetivos:
 el objetivo principal del proyecto, es lograr que la aplicación sea una aplicación ágil y amigable que induzca al ahorro al usuario. De de esta manera nuestro cliente podrá fidelizar a sus usuarios.
