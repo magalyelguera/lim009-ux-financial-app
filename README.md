@@ -1,15 +1,16 @@
 # Aplicación financiera
 
 # Preámbulo
-La transformación digital en el Perú está en un proceso de cambio y reformulación de estrategias de negocios. Muchos bancos ya tomaron la iniciativa con una estrategia de negocio orientado al concepto digital. Es así que el banco más importante del país nos ha encargado realizar un rediseño de su aplicación ‘Tus finanzas’, que lleva más de 6 meses en el mercado como app para iOS con el objetivo de que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro.
+La transformación digital en el Perú está en un proceso de cambio y reformulación de estrategias de negocios. Muchos bancos ya tomaron la iniciativa con una estrategia de negocio orientado al concepto digital. Es así que el banco más importante del país nos ha encargado realizar un rediseño de su aplicación "Tus finanzas", que lleva 6 meses en el mercado como app para iOS con el objetivo de que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro.
 
 # Introducción
-Existe una cantidad importante de peruanos que ahorran fuera del sistema financiero formal, representando así potenciales individuos que pueden ser incluidos en el sistema, en caso se convencieran de los beneficios y ventajas de contar con una cuenta de ahorros o algún otro producto que genere rentabilidad y proteja sus excedentes monetarios.[ASBANC](https://www.asbanc.com.pe/Publicaciones/ASBANC_Semanal_309.pdf)
+Existe una cantidad importante de peruanos que ahorran fuera del sistema financiero formal, representando así potenciales individuos que pueden ser incluidos en el sistema, en caso se convencieran de los beneficios y ventajas de contar con una cuenta de ahorros o algún otro producto que genere rentabilidad y proteja sus excedentes monetarios.
+Fuente:[ASBANC](https://www.asbanc.com.pe/Publicaciones/ASBANC_Semanal_309.pdf)
 
-Al iniciar el rediseño de la aplicación, nos dimos cuenta que muchos tratan de ahorrar, pero la mayoría cae en el proceso. ¿Cómo te ha ido a ti? ¿ahorras? Si estás entre estos últimos, solo revisa nuestra nueva propuesta del app financiera.
+Al iniciar el rediseño de la aplicación, nos dimos cuenta que muchos tratan de ahorrar, pero la mayoría cae en el proceso. ¿Cómo te ha ido a ti? ¿ahorras? Si estás entre estos últimos, solo revisa nuestra nueva propuesta.
 
-Objetivos:
-el objetivo principal del proyecto, es lograr que la aplicación sea una aplicación ágil y amigable que induzca al ahorro al usuario. De de esta manera nuestro cliente podrá fidelizar a sus usuarios.
+# Objetivos
+El objetivo principal del proyecto, es lograr que la aplicación sea una aplicación ágil y amigable que induzca al ahorro al usuario. De de esta manera nuestro cliente podrá fidelizar a sus usuarios.
 
 ## DESCUBRIMIENTO E IDEACIÓN
 
