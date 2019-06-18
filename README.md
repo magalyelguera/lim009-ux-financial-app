@@ -170,10 +170,10 @@ Propuesta de rediseño del aplicativo:
 # Enlaces 
 
 ## Prototipo navegable(Invision)
-[Link a prototipo navegable](https://projects.invisionapp.com/d/main/default/#/console/17796444/369034508/preview#project_console)
+[Link a prototipo navegable](https://invis.io/NGSJ9A8AK4Y#/369034508_Home)
 
 ## Link de Figma(mobile)
-[Link a prototipo]()
+[Link a prototipo](https://www.figma.com/proto/JPWxPcgqELnOeW319yQsCa/proyecto-2-banca-Copy?node-id=2567%3A1&viewport=530%2C-574%2C0.10467550158500671&scaling=scale-down)
 
 
 ## Proyecto en Drive
