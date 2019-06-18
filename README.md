@@ -10,7 +10,12 @@ Fuente:[ASBANC](https://www.asbanc.com.pe/Publicaciones/ASBANC_Semanal_309.pdf)
 Al iniciar el rediseño de la aplicación, nos dimos cuenta que muchos tratan de ahorrar, pero la mayoría cae en el proceso. ¿Cómo te ha ido a ti? ¿ahorras? Si estás entre estos últimos, solo revisa nuestra nueva propuesta.
 
 # Objetivos
-El objetivo principal del proyecto, es lograr que la aplicación sea una aplicación ágil y amigable que induzca al ahorro al usuario. De de esta manera nuestro cliente podrá fidelizar a sus usuarios.
+* Conocer los Objetivos del cliente.
+* Validar los user persona actuales.
+* Definir las necesidades del usuario.
+* Optimizar el flujo de las funcionalidades de gastos y ahorros.
+* Lograr que la aplicación sea ágil y amigable.
+* Analizar la viabilidad de seguir invirtiendo en facebook add.
 
 ## DESCUBRIMIENTO E IDEACIÓN
 
