@@ -148,9 +148,6 @@ Propuesta de rediseño del aplicativo:
  * Se implementó un velocímetro en las funcionalidades de gastos y ahorros ya que le permite al usuario verificar el promedio de sus gastos así como sus ahorros del último período.
  * También se implementó una sesión de balance donde el usuario puede revisar sus gastos versus sus ahorros por períodos.
 
-
-!(https://projects.invisionapp.com/d/main/default/#/console/17796444/369034508/preview#project_console)
-
  ## RECOMENDACIONES
  
 * Replantear el contenido de las impresiones en facebook, ya que del 100% de las personas que llegan a visualizar el anuncio solo el 2.39% logra visitar el landing page, teniendo en cuenta las necesidades del usuario.
@@ -162,3 +159,17 @@ Propuesta de rediseño del aplicativo:
  * Recomendamos Invertir en el rediseño de la landing page, ya que del total de personas que visitan solo el 12.35% logra visitar el app store.Teniendo en cuenta las necesidades encontradas después de esta investigación y enfocadas en el nuevo user persona propuesto.
  * Invertir en las mejoras continuas de las funcionalidades de ahorro y gastos, tomando en cuenta las necesidades de los usuarios.
 
+# Enlaces 
+
+## Prototipo navegable(Invision)
+[Link a prototipo navegable](https://projects.invisionapp.com/d/main/default/#/console/17796444/369034508/preview#project_console)
+
+## Link de Figma(mobile)
+[Link a prototipo]()
+
+
+## Proyecto en Drive
+[Link a documentación en Google Drive](https://drive.google.com/drive/folders/1k7R28j-YmQj7nVSJo6yeI14IajpKNyD8)
+
+## Video en Loom
+[Link a video de explicación del proyecto]()
