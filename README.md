@@ -133,33 +133,32 @@ Si bien es cierto ya existía un prototipo de alta fidelidad de la aplicación, 
 - Solo el 50 % de usuario cumplió satisfactoriamente las tareas encomendadas.
 
 ## PROTOTIPADO
-----Analizar esta sección
-
 ![image](https://user-images.githubusercontent.com/47748753/58359983-bffa2700-7e4b-11e9-9ee2-ac64c78335c1.png)
 
--Propuesta de rediseño del aplicativo 
+Se realizó el prototipo de alta fidelidad en figma y marvel.
+Propuesta de rediseño del aplicativo:
+
  * Rediseño de logo ya que este aplicativo está enfocado en fomentar el ahorro pensamos en un logo más amigable y familiar para esto se realizó un estudio de benchmark.
- * Rediseño en flujo de registro, donde se propone incluir el número de tarjeta, DNI y celular, para esto se realizó un estudio de benchmark así mismo pensando en la seguridad de nuestros usuarios.
+ * Rediseño en flujo de registro, donde se propone incluir el número de tarjeta, DNI y celular, para esto se realizó un estudio de benchmark así mismo pensamos en la seguridad de nuestros usuarios.
  * Inicio de sesión con contraseña, se planteó esta modificación pensando en los usuarios que no tienen la opción de huella digital.
  * Onboarding, se propone esta funcionalidad pensando en la necesidad del usuario de conocer los pasos o procedimientos de uso de aplicativos financieros. 
- * Modificar el menú, ya que su deficiencia fue reflejada en los testeos realizados. Se propone un menú hamburguesa además de un menú inferior permanente con las principales funcionalidades.
- * Modificar la funcionalidad de gastos, teniendo en cuenta  la necesidad del usuario de poder registrar sus gastos de manera fácil y rápida así mismo poder visualizar las diferentes categorías en la que está gastando.
- * Modificar la funcionalidad de ahorros, su deficiencia fue evidenciada en los testeos; se propone el rediseño del botón crear cuenta por crear nuevo objetivo, se implementó una nueva vista de ver el detalle de su objetivo de ahorro así mismo una barra de progreso. 
-
-
-Se realizó el prototipo de alta fidelidad en figma y marvel. Se implementó un menú inferior con iconos el cual reemplaza el menú de tres puntitos, se incremento en la sesión de ahorros la opción de objetivos para poder revisarlos a detalle y la opción de crear nuevos objetivos. En la sesión de gastos se incrementó un velocímetro que le permite al usuario verificar el promedio de sus gastos del último período, también se incrementó una sesión de balance donde el usuario puede revisar sus gastos versus sus ahorros por período.
+ * Se modificó el menú, ya que su deficiencia fue reflejada en los testeos realizados. Se propone un menú hamburguesa además de un menú inferior permanente con las principales funcionalidades.
+ * Se modificó la funcionalidad de gastos, teniendo en cuenta  la necesidad del usuario de poder registrar sus gastos de manera fácil y rápida así mismo poder visualizar las diferentes categorías en la que está gastando.
+ * Se modificó la funcionalidad de ahorros, su deficiencia fue evidenciada en los testeos; se propone el rediseño del botón crear cuenta por crear nuevo objetivo, se implementó una nueva vista de ver el detalle de su objetivo de ahorro así mismo una barra de progreso.
+ * Se implementó un velocímetro en las funcionalidades de gastos y ahorros ya que le permite al usuario verificar el promedio de sus gastos así como sus ahorros del último período.
+ * También se implementó una sesión de balance donde el usuario puede revisar sus gastos versus sus ahorros por períodos.
 
 
 !(https://projects.invisionapp.com/d/main/default/#/console/17796444/369034508/preview#project_console)
 
-## RECOMENDACIONES
-### 1. Modificaciones:
- ### 2. Próximos desarrollos:
- * Propuesta de rediseño de landing page 
- ### 3. Inversión del presupuesto de marketing:
- Propuesta de inversión:
+ ## RECOMENDACIONES
+ 
+* Replantear el contenido de las impresiones en facebook, ya que del 100% de las personas que llegan a visualizar el anuncio solo el 2.39% logra visitar el landing page, teniendo en cuenta las necesidades del usuario.
+
+ ### Inversión del presupuesto de marketing:
+
  Después del análisis de la data fintech, research y testeos del aplicativo podemos concluir y proponer un replanteamiento en la inversión del presupuesto.
- * Invertir en el replanteamiento del contenido de las impresiones en facebook, ya que del 100% de las personas que llegan a visualizar el anuncio solo el 2.39% logra visitar el landing page, Teniendo en cuenta las necesidades encontradas después de esta investigación y enfocadas en el nuevo user persona propuesto.
- * Invertir en el rediseño del landing page, ya que del total de personas que visitan solo el 12.35% logra visitar el app store.Teniendo en cuenta las necesidades encontradas después de esta investigación y enfocadas en el nuevo user persona propuesto.
+ * No recomendamos duplicar el presupuesto en facebook add ya que el estudió reflejó más deficiencias en la visita a la landing page y confisiones en la funcionalidad de gastos y ahorros.
+ * Recomendamos Invertir en el rediseño de la landing page, ya que del total de personas que visitan solo el 12.35% logra visitar el app store.Teniendo en cuenta las necesidades encontradas después de esta investigación y enfocadas en el nuevo user persona propuesto.
  * Invertir en las mejoras continuas de las funcionalidades de ahorro y gastos, tomando en cuenta las necesidades de los usuarios.
 
