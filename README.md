@@ -11,61 +11,62 @@ Al iniciar el rediseño de la aplicación, nos dimos cuenta que muchos tratan de
 
 # Objetivos
 * Conocer los Objetivos del cliente.
-* Validar los user persona actuales.
+* Validar los user persona actuales (User persona primario de 18 años y user persona secundario de 31 años) .
 * Definir las necesidades del usuario.
 * Optimizar el flujo de las funcionalidades de gastos y ahorros.
 * Lograr que la aplicación sea ágil y amigable.
-* Analizar la viabilidad de seguir invirtiendo en facebook add.
+* Analizar la viabilidad de duplicar el presupuesto en facebook add.
 
 ## DESCUBRIMIENTO E IDEACIÓN
 
 ![image](https://user-images.githubusercontent.com/47748753/58359563-b66fbf80-7e49-11e9-9391-d83396a4519b.png)
 
-En la primera etapa, realizamos entrevistas a nuestro cliente y a 13 usuarios, 7 usuarios enfocados en el primer user persona y los 6 usuarios enfocados en el segundo user persona.
+En la primera etapa, realizamos entrevistas a nuestro cliente y a 13 usuarios.
 
 ### Entrevista con el cliente - Product Manager del banco
 
-Conclusión: 
-El app está enfocado en el ahorro: primero ve sus gastos y metas de ahorro.
-El app no da intereses, primero queremos incentivar a ahorrar al usuario
-Todas las cuentas tienen una tasa de interés, el usuario crea una cuenta de ahorros para lograr sus metas pero está dentro de la misma cuenta de ahorros.
-Actualmente no busca generar dinero, lo que busca es fidelización
-Aplicativo local en Perú
-En qué rango de tiempo emiten los diferentes gastos del usuario: Cuando usas la tarjeta para pagar algo, se ve reflejado automática, peor el reporte de los gatos es mensual.
-Gastos: se acumula mensual
-¿Por qué no otras funcionalidades? Priorizar mayor fidelización como por ejemplo yape, pero queremos hacer algo distinto y por eso nos enfocamos en la parte de los ahorros, pero si los objetivos de los usuarios han cambiado y los sustentan si podemos agregar.
-Por que duplicar facebook add: No estamos seguros, pensamos que está funcionando.
-¿Cuales son los KPI más importantes o les genera mayor índice? Se requiere un análisis
-¿Puede haber publicidad en el app? Eventualmente se puede mostrar cosas muy personalizadas pero no es el objetivo principal.
+Conclusiones:
+* El app está enfocado en el ahorro.
+* El app no da intereses,el objetivo es incentivar a ahorrar al usuario.
+* Actualmente no busca generar dinero, lo que busca es fidelización.
+* Aplicativo es local, solo en  Perú.
+* Queremos tener la certeza de seguir invirtiendo en facebook add ya que se piensa duplicar el presupuesto.
 
-### Entrevista a Usuarios de 18 - 25 años (enfocados en primer usuario)
+### Entrevista a usuarios de 18 - 25 años (enfocados en el user persona primario de 18 años )
 
 Conclusiones:
-No ahorran sus gastos son solventados por sus padres.
-Usan las app financieras, pero solo para consultar su saldo cuando sus padres les transfieren dinero.
-Usan redes sociales diariamente, a veces ven publicidad del banco mediante redes.
-Algunos no tiene cuenta en el banco.
-La mayoría no trabajo, solo se dedican a estudiar.
+* No ahorran, sus gastos son solventados por sus padres.
+* Usan las app financieras, pero solo para consultar su saldo cuando sus padres les transfieren dinero.
+* Usan redes sociales diariamente, a veces ven publicidad del banco mediante redes.
+* Algunos no tiene cuenta en el banco.
+* La mayoría no trabajo, solo se dedican a estudiar.
 
-### Entrevista a Usuarios de 26 - 35 años (enfocados en segundo usuario)
+### Entrevista a Usuarios de 26 - 35 años (enfocados en el user persona secundario de 31 años)
 
 Conclusiones:
-Sí ahorran, la mayoría para lograr sus objetivos a corto y largo plazo.
-Algunos ahorran por precaución.
-La mayoría tiene cuentas de ahorro en diferentes bancos, para diversificar su dinero.
-Usan la aplicación financiera para realizar sus transacciones y no usan banca por internet.
-Usan redes sociales a diario, en algunas ocasiones ven publicidad del banco por ese medio.
-Desean seguridad al momento de realizar transacciones por internet.
-Prefieren usar aplicaciones que no sean tan complicadas(fáciles de usar).
-Entre los bancos más usados están: Interbank, BBVA y BCP.
+* Sí ahorran, la mayoría para lograr sus objetivos a corto y largo plazo.
+* Algunos ahorran en diferentes bancos, juntas y/o con familiares.
+* La mayoría tiene cuentas de ahorro en diferentes bancos, para diversificar su dinero.
+* Usan la aplicación financiera para realizar sus transacciones y no usan banca por internet.
+* Usan redes sociales a diario, en algunas ocasiones ven publicidad del banco por ese medio.
+* Desean seguridad al momento de realizar transacciones por internet.
+* Prefieren usar aplicaciones que sean fáciles y rápidas de entender.
+* Entre los bancos más usados están: Interbank, BBVA y BCP.
 
 ## SÍNTESIS Y DEFINICIÓN
-![image](https://user-images.githubusercontent.com/47748753/58359572-bff92780-7e49-11e9-9869-dd908f95d10f.png)
 
 Después de las entrevistas, realizamos el Affinity Map y el Customer Journey Map. Con la información obtenida, cambiamos a nuestro user persona.
-Nuestro user person actual es de 29 años, pues el la edad promedio de los entrevistados en un rango de 26 a 35 años los cuales si tienen hábito de ahorro, es nuestro usuario ideal para la aplicación que estamos iterando.
+Nuestro user person actual es de 29 años, pues es la edad promedio de los entrevistados en un rango de 26 a 35 años los cuales si tienen hábito de ahorro, es nuestro usuario ideal para la aplicación que estamos iterando.
 
 ### User Persona
+
+Propuesta de un nuevo User Persona de 29 años
+Después de una investigación cualitativa realizada a 13 personas de edades entre 18 y 34 años de ambos sexos;  llegamos a la conclusión de que los usuarios mayores de 26 años tienen una cultura de ahorro y/o busca ahorrar un porcentaje de sus ingresos,  el 100% hace uso de apps de los bancos para realizar sus transacciones así mismo estos buscan priorizar la seguridad a la hora de sus transacciones.
+
+  > “Ahorro mensualmente, tengo cuentas en distintos bancos ” Omar Poméz 32 años.
+  
+
+  > “Ahorro en una junta, casa y tarjetas” Dina Chipana 29 años.
 
 <p  align="center">
 
@@ -99,21 +100,11 @@ Nuestro user person actual es de 29 años, pues el la edad promedio de los entre
 
 - {Rebeca} necesita sentir seguridad en sus transacciones por aplicativos  para hacer mayor uso de la banca móvil.
 
-
-### HMW
-
-HMW utilizar el registro de gastos sea relajante y no estresante?
-HMW hacer que las transacciones virtuales sean fáciles de entender?
-HMW hacer que las fechas establecidas de ahorro sean fáciles de recordar.
-HMW hacer que el uso de aplicaciones financieras sean confiables como un amigo.
-HMW eliminar el miedo en las transacciones virtuales .
-HMW que ahorrar sea tan fácil como dar un click.
-
 ## IDEACIÓN
 
 ![image](https://user-images.githubusercontent.com/47748753/58359586-cdaead00-7e49-11e9-8d49-d164296d7c03.png)
 
-En esta etapa buscamos diversas aplicaciones, para encontrar las mejores funcionalidades y poder desarrollarlas según lo definido en la etapa de síntesis.
+En esta etapa buscamos idear las mejores soluciones que puedan ser desarrolladas y resolver las necesidades de nuestros usuarios.
 
 ### Benchmark
 
@@ -125,43 +116,28 @@ En esta etapa buscamos diversas aplicaciones, para encontrar las mejores funcion
 Si bien es cierto ya existía un prototipo de alta fidelidad de la aplicación, decidimos hacer uno de baja para para emplear nuevas funcionalidades.
 
 ### Testeo del Prototipo
+## Testeo presencial
 
-- El botón de tres puntos confundió al usuario.
+- El menú confundió al usuario.
 
-- El usuario busca procedimientos fáciles y rápidos.
+- El usuario confunde la colocación de huella en la pantalla al momento de registrarse.
 
-- El usuario confunde el procedimiento de registro con huella en la pantalla.
+- El botón crear cuenta confunde al usuario con crear meta de ahorro.
 
-- El botón crear cuenta confunde al usuario con crear meta
-La tarjeta te bota el disponible, pero debería especificar de que cuenta es el disponible.
+- El usuario entró en confusión respecto al saldo disponible de la tarjeta y el saldo disponible de otras cuentas.
 
-- Los números de selección para las fechas deberían ser con un contador.
+- El usuario buscó un contador al momento de seleccionar fechas.
 
-- Huella solo debería ser en el huellero y no en la pantalla para iniciar sesión.
+## Testeo online (Maze)
 
-- Al iniciar sesión podría ser una opción de google en Facebook.
+- Solo el 50 % de usuario cumplió satisfactoriamente las tareas encomendadas.
 
 ## PROTOTIPADO
+----Analizar esta sección
 
 ![image](https://user-images.githubusercontent.com/47748753/58359983-bffa2700-7e4b-11e9-9ee2-ac64c78335c1.png)
 
-Se realizó el prototipo de alta fidelidad en figma y marvel. Se implementó un menú inferior con iconos el cual reemplaza el menú de tres puntitos, se incremento en la sesión de ahorros la opción de objetivos para poder revisarlos a detalle y la opción de crear nuevos objetivos. En la sesión de gastos se incrementó un velocímetro que le permite al usuario verificar el promedio de sus gastos del último período, también se incrementó una sesión de balance donde el usuario puede revisar sus gastos versus sus ahorros por período.
-
-!(https://projects.invisionapp.com/d/main/default/#/console/17796444/369034508/preview#project_console)
-
-## RECOMENDACIONES
-### 1. Modificaciones:
-
--Propuesta de un nuevo User Persona de 29 años
-Después de una investigación cualitativa realizada a 13 personas de edades entre 18 y 34 años de ambos sexos;  llegamos a la conclusión de que los usuarios mayores de 26 años tienen una cultura de ahorro y/o busca ahorrar un porcentaje de sus ingresos,  el 100% hace uso de apps de los bancos para realizar sus transacciones así mismo estos buscan priorizar la seguridad a la hora de sus transacciones.
-
-  > “Ahorro mensualmente, tengo cuentas en distintos bancos ” Omar Poméz 32 años.
-  
-
-  > “Ahorro en una junta, casa y tarjetas” Dina Chipana 29 años.
-
 -Propuesta de rediseño del aplicativo 
-
  * Rediseño de logo ya que este aplicativo está enfocado en fomentar el ahorro pensamos en un logo más amigable y familiar para esto se realizó un estudio de benchmark.
  * Rediseño en flujo de registro, donde se propone incluir el número de tarjeta, DNI y celular, para esto se realizó un estudio de benchmark así mismo pensando en la seguridad de nuestros usuarios.
  * Inicio de sesión con contraseña, se planteó esta modificación pensando en los usuarios que no tienen la opción de huella digital.
@@ -170,6 +146,14 @@ Después de una investigación cualitativa realizada a 13 personas de edades ent
  * Modificar la funcionalidad de gastos, teniendo en cuenta  la necesidad del usuario de poder registrar sus gastos de manera fácil y rápida así mismo poder visualizar las diferentes categorías en la que está gastando.
  * Modificar la funcionalidad de ahorros, su deficiencia fue evidenciada en los testeos; se propone el rediseño del botón crear cuenta por crear nuevo objetivo, se implementó una nueva vista de ver el detalle de su objetivo de ahorro así mismo una barra de progreso. 
 
+
+Se realizó el prototipo de alta fidelidad en figma y marvel. Se implementó un menú inferior con iconos el cual reemplaza el menú de tres puntitos, se incremento en la sesión de ahorros la opción de objetivos para poder revisarlos a detalle y la opción de crear nuevos objetivos. En la sesión de gastos se incrementó un velocímetro que le permite al usuario verificar el promedio de sus gastos del último período, también se incrementó una sesión de balance donde el usuario puede revisar sus gastos versus sus ahorros por período.
+
+
+!(https://projects.invisionapp.com/d/main/default/#/console/17796444/369034508/preview#project_console)
+
+## RECOMENDACIONES
+### 1. Modificaciones:
  ### 2. Próximos desarrollos:
  * Propuesta de rediseño de landing page 
  ### 3. Inversión del presupuesto de marketing:
