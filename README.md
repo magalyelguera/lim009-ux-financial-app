@@ -3,7 +3,7 @@
 # Preámbulo
 La transformación digital en el Perú está en un proceso de cambio y reformulación de estrategias de negocios. Muchos bancos ya tomaron la iniciativa con una estrategia de negocio orientado al concepto digital. Es así que el banco más importante del país nos ha encargado realizar un rediseño de su aplicación "Tus finanzas", que lleva 6 meses en el mercado como app para iOS con el objetivo de que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro.
 
-# Aplicativo inicial del banco
+Aplicativo inicial del banco
 
 <p  align="center">
 
