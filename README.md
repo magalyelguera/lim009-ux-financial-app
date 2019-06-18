@@ -1,5 +1,7 @@
 # Aplicación financiera
 
+# Preámbulo
+
 Al iniciar el rediseño de la aplicación, nos dimos cuenta que muchos tratan de ahorrar, pero la mayoría cae en el proceso. ¿Cómo te ha ido a ti? ¿ahorras? Si estás entre estos últimos, solo revisa nuestra nueva propuesta del app financiera.
 
 Objetivos:
