@@ -3,6 +3,14 @@
 # Preámbulo
 La transformación digital en el Perú está en un proceso de cambio y reformulación de estrategias de negocios. Muchos bancos ya tomaron la iniciativa con una estrategia de negocio orientado al concepto digital. Es así que el banco más importante del país nos ha encargado realizar un rediseño de su aplicación "Tus finanzas", que lleva 6 meses en el mercado como app para iOS con el objetivo de que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro.
 
+# Aplicativo inicial del banco
+
+<p  align="center">
+
+<img  src="http://i68.tinypic.com/9sgm80.png">
+
+</p>
+
 # Introducción
 Existe una cantidad importante de peruanos que ahorran fuera del sistema financiero formal, representando así potenciales individuos que pueden ser incluidos en el sistema, en caso se convencieran de los beneficios y ventajas de contar con una cuenta de ahorros o algún otro producto que genere rentabilidad y proteja sus excedentes monetarios.
 Fuente:[ASBANC](https://www.asbanc.com.pe/Publicaciones/ASBANC_Semanal_309.pdf)
